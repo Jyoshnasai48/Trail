@@ -2,8 +2,8 @@
 
 | Date |   Short Description |  Status Update |  Links |   Additional comments |
 |---|---|---|---|---|
-| 2021-10-16 | Training Plan  | Emailed training plan to employees | n/a | n/a | 
-| 2021-10-14 | Training Plan Preparation  | First draft | [programming.md](https://github.com/vamseeachanta/energy/blob/master/programming.md) |  |
+| 2021-10-19 | Github,Common Programming Principles  | Installed Github and Visual Studio,Gone through the concepts of Programming Principles| https://github.com/Jyoshnasai48/Trail/edit/main/Daily_Status.md | n/a | 
+
 
 
 ## Introduction
