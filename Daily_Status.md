@@ -3,8 +3,7 @@
 | Date |   Short Description |  Status Update |  Links |   Additional comments |
 |---|---|---|---|---|
 | 2021-10-19 | Github,Common Programming Principles  | Installed Github and Visual Studio,Gone through the concepts of Programming Principles| https://github.com/Jyoshnasai48/Trail/edit/main/Daily_Status.md | n/a | 
-
-
+| 2021-10-20 | OOPS Principles | Gone through some of the concepts of Object Oriented Programming Principles | n/a |
 
 ## Introduction
 The document describes the daily update notes and the associated template
